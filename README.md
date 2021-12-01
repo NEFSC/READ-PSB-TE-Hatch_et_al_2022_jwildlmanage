@@ -18,7 +18,15 @@ Please cite this data compendium as:
 
 After downloading, you can load the data from this compendium into R with:
 ```r
-avg_dive_dur = './data/Cc_avg_div_dur.nc' %>% raster::stack()
+## load needed libraries
+library(dplyr)
+library(raster)
+
+## load data
+avg_dive_dur = './data/avg_dive_dur/Cc_avg_dive_dur.nc' %>% raster::stack()
+
+## plot
+plot(avg_dive_dur)
 ```
 
 ---
