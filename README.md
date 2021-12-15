@@ -4,14 +4,14 @@
 
 Our paper is online here:
 
-> Hatch JM, Haas HL, Sasso CR, Patel SH, Smolowitz RJ. (2021). *Estimating the complex patterns of survey availability for a highly-mobile marine animal*. The Journal of Wildlife Management, Online at <https://doi.org/xxx/xxx>
+> Hatch JM, Haas HL, Sasso CR, Patel SH, Smolowitz RJ. (*Accepted*). *Estimating the complex patterns of survey availability for a highly-mobile marine animal*. The Journal of Wildlife Management, Online at <https://doi.org/xxx/xxx>
 >
 
 ## How to cite
 
 Please cite this data compendium as:
 
-> Hatch JM, Haas HL, Sasso CR, Patel SH, Smolowitz RJ. (2021). *Data compendium for Estimating the complex patterns of survey availability for a highly-mobile marine animal*. Accessed DD MM YYYY. Online at <https://doi.org/xxx/xxx>
+> Hatch JM, Haas HL, Sasso CR, Patel SH, Smolowitz RJ. (XXXX). *Data compendium for Estimating the complex patterns of survey availability for a highly-mobile marine animal*. Accessed DD MM YYYY. Online at <https://doi.org/xxx/xxx>
 > 
 
 ## How to use (an example)
@@ -21,12 +21,19 @@ After downloading, you can load the data from this compendium into R with:
 ## load needed libraries
 library(dplyr)
 library(raster)
+library(ncdf4)
+
+## file path
+avg_dive_file = './data/avg_dive_dur/Cc_avg_dive_dur.nc'
 
 ## load data
-avg_dive_dur = './data/avg_dive_dur/Cc_avg_dive_dur.nc' %>% raster::stack()
+avg_dive_dur = avg_dive_file %>% raster::stack()
 
 ## plot
 plot(avg_dive_dur)
+
+## look at *.nc file contents
+avg_dive_file %>% ncdf4::nc_open()
 ```
 
 ---
