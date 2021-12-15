@@ -1,10 +1,10 @@
 # A data compendium for: "Estimating the complex patterns of survey availability for a highly-mobile marine animal"
 
-![gitleaks](https://github.com/jmhatch-NOAA/READ-PSB-TE-Hatch_et_al_2021_jwildlmanage/actions/workflows/secretScan.yml/badge.svg)
+![gitleaks](https://github.com/jmhatch-NOAA/READ-PSB-TE-Hatch_et_al_XXXX_jwildlmanage/actions/workflows/secretScan.yml/badge.svg)
 
-Our paper is online here:
+Our paper is online here (TBD):
 
-> Hatch JM, Haas HL, Sasso CR, Patel SH, Smolowitz RJ. (*Accepted*). *Estimating the complex patterns of survey availability for a highly-mobile marine animal*. The Journal of Wildlife Management, Online at <https://doi.org/xxx/xxx>
+> Hatch JM, Haas HL, Sasso CR, Patel SH, Smolowitz RJ. (**Accepted**). *Estimating the complex patterns of survey availability for a highly-mobile marine animal*. The Journal of Wildlife Management, Online at <https://doi.org/xxx/xxx>
 >
 
 ## How to cite
