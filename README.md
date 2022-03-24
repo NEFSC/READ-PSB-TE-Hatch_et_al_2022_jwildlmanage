@@ -4,7 +4,7 @@
 
 Our paper is online here (TBD):
 
-> Hatch JM, Haas HL, Sasso CR, Patel SH, Smolowitz RJ. (**Accepted**). *Estimating the complex patterns of survey availability for a highly-mobile marine animal*. The Journal of Wildlife Management, Online at <https://doi.org/xxx/xxx>
+> Hatch JM, Haas HL, Sasso CR, Patel SH, Smolowitz RJ. (2022). *Estimating the complex patterns of survey availability for loggerhead turtles*. Journal of Wildlife Management, Online at <https://doi.org/10.1002/jwmg.22208>
 >
 
 ## How to cite
