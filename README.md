@@ -5,7 +5,7 @@
 
 Our paper is online here:
 
-> Hatch, J. M., H. L. Haas, C. R. Sasso, S. H. Patel, and R. J. Smolowitz. 2022. Estimating the complex patterns of survey availability for loggerhead turtles. Journal of WildlifeManagement e22208. Online at <https://doi.org/10.1002/jwmg.22208>
+> Hatch, J. M., H. L. Haas, C. R. Sasso, S. H. Patel, and R. J. Smolowitz. 2022. *Estimating the complex patterns of survey availability for loggerhead turtles*. Journal of Wildlife Management e22208. <https://doi.org/10.1002/jwmg.22208>
 >
 
 ## How to cite
