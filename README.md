@@ -5,14 +5,14 @@
 
 Our paper is online here:
 
-> Hatch JM, Haas HL, Sasso CR, Patel SH, Smolowitz RJ. (2022). *Estimating the complex patterns of survey availability for loggerhead turtles*. Journal of Wildlife Management, Online at <https://doi.org/10.1002/jwmg.22208>
+> Hatch, J. M., H. L. Haas, C. R. Sasso, S. H. Patel, and R. J. Smolowitz. 2022. Estimating the complex patterns of survey availability for loggerhead turtles. Journal of WildlifeManagement e22208. Online at <https://doi.org/10.1002/jwmg.22208>
 >
 
 ## How to cite
 
 Please cite this data compendium as:
 
-> Hatch JM, Haas HL, Sasso CR, Patel SH, Smolowitz RJ. (XXXX). *Data compendium for Estimating the complex patterns of survey availability for a highly-mobile marine animal*. Accessed DD MM YYYY. Online at <https://doi.org/10.5281/zenodo.6382707>
+> Hatch, J. M., H. L. Haas, C. R. Sasso, S. H. Patel, and R. J. Smolowitz. (2022). *Data compendium for Estimating the complex patterns of survey availability for loggerhead turtles*. Accessed DD MM YYYY. Online at <https://doi.org/10.5281/zenodo.6382707>
 > 
 
 ## How to use (an example)
