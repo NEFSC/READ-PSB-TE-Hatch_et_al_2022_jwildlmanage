@@ -12,7 +12,7 @@ Our paper is online here:
 
 Please cite this data compendium as:
 
-> Hatch JM, Haas HL, Sasso CR, Patel SH, Smolowitz RJ. (XXXX). *Data compendium for Estimating the complex patterns of survey availability for a highly-mobile marine animal*. Accessed DD MM YYYY. Online at <https://doi.org/xxx/xxx>
+> Hatch JM, Haas HL, Sasso CR, Patel SH, Smolowitz RJ. (XXXX). *Data compendium for Estimating the complex patterns of survey availability for a highly-mobile marine animal*. Accessed DD MM YYYY. Online at <https://zenodo.org/badge/latestdoi/359927545>
 > 
 
 ## How to use (an example)
