@@ -1,6 +1,5 @@
 # A data compendium for: "Estimating the complex patterns of survey availability for loggerhead turtles"
 
-![gitleaks](https://github.com/jmhatch-NOAA/READ-PSB-TE-Hatch_et_al_XXXX_jwildlmanage/actions/workflows/secretScan.yml/badge.svg) 
 [![DOI](https://zenodo.org/badge/359927545.svg)](https://zenodo.org/badge/latestdoi/359927545)
 
 Our paper is online here:
